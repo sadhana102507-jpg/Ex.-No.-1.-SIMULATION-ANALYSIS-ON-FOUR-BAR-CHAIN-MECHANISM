@@ -52,11 +52,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 ## Input:
-![WhatsApp Image 2025-12-27 at 8 19 56 AM](https://github.com/user-attachments/assets/df6822ab-0b7d-4cc6-a50d-04657b509e33)
+![WhatsApp Image 2025-12-27 at 8 19 42 AM](https://github.com/user-attachments/assets/26b5cd81-b3c2-43ce-b454-dbaa423e07b7) 
 
 ## Output:
 ![WhatsApp Image 2025-12-27 at 8 19 43 AM](https://github.com/user-attachments/assets/22ec09bb-e43d-4795-a8a2-1edfceb183e9)
-![WhatsApp Image 2025-12-27 at 8 19 42 AM](https://github.com/user-attachments/assets/26b5cd81-b3c2-43ce-b454-dbaa423e07b7) 
+![WhatsApp Image 2025-12-27 at 8 19 56 AM](https://github.com/user-attachments/assets/df6822ab-0b7d-4cc6-a50d-04657b509e33)
 
 ## Explanation:
 This experiment shows how a four-bar mechanism moves when the input link (r2) is rotated.
